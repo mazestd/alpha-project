@@ -6,7 +6,7 @@
 
 ## Introduction
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mazestd&repo=alpha-project)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mazestd&repo=alpha-project)](https://github.com/mazestd/alpha-project)
 
 ***Alpha*** is a collection of many Keyboard PCB that I've been planning to bring many features and integration to each other including PCB that can be connected to make a larger layout (ex: 60% and arrow cluster would be an FRL PCB ) and many combinations possible.
 
