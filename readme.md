@@ -1,8 +1,8 @@
 # ***Alpha*** Keyboard PCB Project
 
-![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)[![License](https://img.shields.io/github/license/mazestd/alpha?style=for-the-badge&logo=Github&color=red)](https://github.com/mazestd/alpha-project)
+![Creator](https://img.shields.io/badge/Maze-Studio-orange?style=for-the-badge) ![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge) [![License](https://img.shields.io/github/license/mazestd/alpha?style=for-the-badge&logo=Github&color=red)](https://github.com/mazestd/alpha-project)
 
-*Notes : This project intends to be personal documentation. All information and files have been verified to work by the test i did. If you want to implement this as your project, do it at your own risk.*
+***Attention!*** This project intends to be personal documentation. All information and files have been verified to work by the test i did. If you want to implement this as your project, do it at your own risk.*
 
 ![image][banner]
 
